@@ -1,0 +1,1 @@
+create a nodejs application which creates a new file named message.txt having a random contnent.
