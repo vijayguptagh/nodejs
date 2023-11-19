@@ -1,0 +1,5 @@
+create a nodejs application which 
+1.takes user input link.
+2. create a txt file to save user input string using 
+3. turn the user entered url into a QR code image.
+ 
